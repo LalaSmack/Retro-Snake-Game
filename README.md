@@ -6,7 +6,7 @@ A classic Snake game built in C++ using `raylib`.
 
 This is a simple implementation of the retro Snake game. The player controls the snake, trying to eat as many apples as possible without hitting the walls or the snake's own body. Each apple consumed increases the snake's length and the game's difficulty.
 
-## GamrPlay
+## GamePlay
 + Use the arrow keys to control the direction of the snake.
 + The game ends if the snake hits the wall or itself.
 + Try to eat as many apples as possible to increase your score!

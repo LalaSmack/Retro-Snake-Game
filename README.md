@@ -34,4 +34,4 @@ cd Retro-Snake-Game
 
 ## Attribution
 
-This project is based on a tutorial by @educ8s , Nick Koumaris (https://youtu.be/LGqsnM_WEK4?si=0bsuYrwdVjFDixXB), originally licensed under the MIT License. 
+This project is based on a tutorial by @educ8s , Nick Koumaris (https://youtu.be/LGqsnM_WEK4?si=0bsuYrwdVjFDixXB).

@@ -25,7 +25,7 @@ This is a simple implementation of the retro Snake game. The player controls the
 ```bash
 git clone https://github.com/LalaSmack/Retro-Snake-Game.git
 cd Retro-Snake-Game
-
+```
 ## Attribution
 
 This project is based on a tutorial by @educ8s (https://youtu.be/LGqsnM_WEK4?si=0bsuYrwdVjFDixXB), originally licensed under the MIT License. 
